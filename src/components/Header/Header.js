@@ -13,6 +13,7 @@ const StyledHeader = styled.header`
   position: sticky;
   top: 0;
   margin: 0 auto;
+  z-index: 9999;
 `;
 
 const StyledHeaderTitleSpan = styled.span`
