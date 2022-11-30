@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/4p22-final-project-dmitrii-pecherkin/static/css/main.e6c13ad2.css",
-    "main.js": "/4p22-final-project-dmitrii-pecherkin/static/js/main.aebcb174.js",
+    "main.js": "/4p22-final-project-dmitrii-pecherkin/static/js/main.56e407d3.js",
     "static/media/delete.svg": "/4p22-final-project-dmitrii-pecherkin/static/media/delete.89e3dfaa9d7c9b0c64ad785e57ce0d75.svg",
     "index.html": "/4p22-final-project-dmitrii-pecherkin/index.html",
     "main.e6c13ad2.css.map": "/4p22-final-project-dmitrii-pecherkin/static/css/main.e6c13ad2.css.map",
-    "main.aebcb174.js.map": "/4p22-final-project-dmitrii-pecherkin/static/js/main.aebcb174.js.map"
+    "main.56e407d3.js.map": "/4p22-final-project-dmitrii-pecherkin/static/js/main.56e407d3.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.aebcb174.js"
+    "static/js/main.56e407d3.js"
   ]
 }
